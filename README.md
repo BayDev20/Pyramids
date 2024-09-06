@@ -10,4 +10,4 @@ This project is an interactive 3D visualization of pyramids, built using **WebGL
 - **Responsive Interface**: The design is clean, modern, and responsive, with a dark theme and soft blue accents.
 - **WebGL Canvas**: The scene is rendered within a `<canvas>` element using WebGL.
 
-![alt text](<Screenshot 2024-09-05 at 11.03.55 PM.png>)
+![image](https://github.com/user-attachments/assets/fd9bffa4-ff12-48cf-97e0-0961404de6f7)
